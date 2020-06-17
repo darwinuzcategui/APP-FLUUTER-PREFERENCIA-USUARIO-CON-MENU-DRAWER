@@ -1,8 +1,20 @@
-# prefrenciausuarioapp
+# APP PREFERENCIAS USUARIOS Y MENU DRAWER
 
-A new Flutter project.
+**App Ejemplo Flutter,  guarda datos en la preferencias del usuarios y ademas con un  Menu Drawer**
 
-## Getting Started
+
+## prefrenciausuarioapp
+
+Pantallas del Sistema.
+![Pantalla Principal o Menu Drawer](https://github.com/darwinuzcategui/APP-FLUUTER-PREFERENCIA-USUARIO-CON-MENU-DRAWER/blob/master/pantallas/Screenshot_001.png "Menu Drawer")
+
+![Pantalla Preferencia Usuarios](https://github.com/darwinuzcategui/APP-FLUUTER-PREFERENCIA-USUARIO-CON-MENU-DRAWER/blob/master/pantallas/Screenshot_002.png "Preferencia Usuario")
+
+![Pantalla 1 Preferencia Usuarios](https://github.com/darwinuzcategui/APP-FLUUTER-PREFERENCIA-USUARIO-CON-MENU-DRAWER/blob/master/pantallas/Screenshot_003.png "Preferencia Usuario")
+
+![Pantalla 2 Preferencia Usuarios](https://github.com/darwinuzcategui/APP-FLUUTER-PREFERENCIA-USUARIO-CON-MENU-DRAWER/blob/master/pantallas/Screenshot_003.png "Preferencia Usuario**")
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
