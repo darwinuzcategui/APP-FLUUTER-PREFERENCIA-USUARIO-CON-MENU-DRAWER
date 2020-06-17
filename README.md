@@ -12,7 +12,7 @@ Pantallas del Sistema.
 
 ![Pantalla 1 Preferencia Usuarios](https://github.com/darwinuzcategui/APP-FLUUTER-PREFERENCIA-USUARIO-CON-MENU-DRAWER/blob/master/pantallas/Screenshot_003.png "Preferencia Usuario")
 
-![Pantalla 2 Preferencia Usuarios](https://github.com/darwinuzcategui/APP-FLUUTER-PREFERENCIA-USUARIO-CON-MENU-DRAWER/blob/master/pantallas/Screenshot_003.png "Preferencia Usuario**")
+![Pantalla 2 Preferencia Usuarios](https://github.com/darwinuzcategui/APP-FLUUTER-PREFERENCIA-USUARIO-CON-MENU-DRAWER/blob/master/pantallas/Screenshot_004.png "Preferencia Usuario**")
 
 ### Getting Started
 
